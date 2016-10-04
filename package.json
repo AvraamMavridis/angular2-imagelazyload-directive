@@ -1,0 +1,49 @@
+{
+  "name": "angular2-clickoutside-directive",
+  "version": "1.1.2",
+  "description": "Angular 2 Click Outside Directive",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AvraamMavridis/angular2-clickoutside-directive.git"
+  },
+  "keywords": [
+    "angular2",
+    "angular",
+    "2",
+    "click",
+    "away",
+    "click",
+    "outside",
+    "clickaway",
+    "clickoutside"
+  ],
+  "author": "Avraam Mavridis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AvraamMavridis/angular2-clickoutside-directive/issues"
+  },
+  "homepage": "https://github.com/AvraamMavridis/angular2-clickoutside-directive#readme",
+  "devDependencies": {
+    "@types/core-js": "^0.9.0",
+    "angular2": "^2.0.0-beta.17",
+    "es6-promise": "^4.0.3",
+    "es6-shim": "^0.35.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.0-beta.12",
+    "ts-helpers": "^1.1.1",
+    "tslint": "^3.4.0",
+    "tslint-loader": "^2.1.0",
+    "typedoc": "^0.4.4",
+    "typescript": "2.0.3",
+    "zone.js": "^0.6.25"
+  },
+  "dependencies": {
+    "element-resize-detector": "^1.1.9"
+  }
+}
