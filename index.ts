@@ -10,7 +10,7 @@ export class ImageLazyLoadDirective implements OnInit, OnDestroy
 
     @Input() threshold: number = 300;
     @Input() fadeIn: boolean = true;
-    @Input() fadeInDuration: number = 1;
+    @Input() fadeInDuration: number = 1000;
 
     /**
      *  Checks if the element is inside the viewport
