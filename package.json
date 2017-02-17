@@ -39,7 +39,7 @@
     "ts-helpers": "^1.1.1",
     "tslint": "^4.2.0",
     "tslint-loader": "^3.3.0",
-    "typedoc": "^0.5.3",
+    "typedoc": "^0.5.7",
     "typescript": "2.1.4",
     "zone.js": "^0.7.4"
   }
