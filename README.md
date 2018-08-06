@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/angular2-imagelazyload-directive.svg)](https://badge.fury.io/js/angular2-clickoutside-directive)
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![Greenkeeper badge](https://badges.greenkeeper.io/AvraamMavridis/angular2-imagelazyload-directive.svg)](https://greenkeeper.io/)
 
 ## Install
 
